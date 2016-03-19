@@ -308,7 +308,7 @@ GraphQL is a __data query language and runtime__ designed and used at Facebook t
 _What you need to know_: 
 - A GraphQL __query is a string__ interpreted by a server that __returns data in a specified format.__
 
-<sup>Which format? Anpther propriety format from FB aye?</sup>
+<sup>Which format? Another propriety format from FB aye?</sup>
 
 ---
 # What is GraphQL?
@@ -368,7 +368,7 @@ Issue #3: Documenting your API now becomes a thing.
 
 # Review of demo
 
-- Addressed the issues that we had previously raisedough time 
+- Addressed the issues that we had previously raised
 	1. One query is all your probably need to render your UI fully
 	2. Your clients would only get data that it is interested in.
 	3. Built-in documentation and introspection as part as Schema definition.
