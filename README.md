@@ -1,10 +1,22 @@
 # fossasia-2016-graphql-demo
 
-An example Golang GraphQL server written with [graphql-go](https://github.com/graphql-go/graphql) and [graphql-relay-go](https://github.com/graphql-go/relay)
- 
-Link to the slides will be added later 
+Demo project used to showcase GraphQL capabilities
+
+## Slides
+
+Slides for the talk @ FOSSASIA 2016 available here:
+[Introduction to GraphQL (or How I Learned to Stop Worrying About REST APIs)](https://github.com/sogko/fossasia-2016-graphql-demo/raw/master/slides/fossasia-2016-presentation.pdf)
+
+## Reminder
+
+#### We are looking for more contributors for `graphql-go`
+Feel free to dive right in and submit a PR @ [https://github.com/graphql-go/graphql]
+
+Participate in our discussion =)
 
 ### Features
+Forked from (https://github.com/graphql-go/playground)
+
 - [graphql-go](https://github.com/graphql-go/graphql): Golang GraphQL library
 - [graphql-relay-go](https://github.com/graphql-go/relay): Golang GraphQL library helper to construct Relay-compliant server
 - [graphiql](https://github.com/graphql/graphiql): In-browser IDE to explore GraphQL queries
