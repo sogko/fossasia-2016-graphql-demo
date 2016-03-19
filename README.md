@@ -10,12 +10,12 @@ Slides for the talk @ FOSSASIA 2016 available here:
 ## Reminder
 
 #### We are looking for more contributors for `graphql-go`
-Feel free to dive right in and submit a PR @ [https://github.com/graphql-go/graphql]
+Feel free to dive right in and submit a PR @ [graphql-go/graphql](https://github.com/graphql-go/graphql)
 
 Participate in our discussion =)
 
 ### Features
-Forked from (https://github.com/graphql-go/playground)
+Forked from [https://github.com/graphql-go/playground](https://github.com/graphql-go/playground)
 
 - [graphql-go](https://github.com/graphql-go/graphql): Golang GraphQL library
 - [graphql-relay-go](https://github.com/graphql-go/relay): Golang GraphQL library helper to construct Relay-compliant server
