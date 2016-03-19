@@ -5,7 +5,9 @@ Demo project used to showcase GraphQL capabilities
 ## Slides
 
 Slides for the talk @ FOSSASIA 2016 available here:
-[Introduction to GraphQL (or How I Learned to Stop Worrying About REST APIs)](https://github.com/sogko/fossasia-2016-graphql-demo/raw/master/slides/fossasia-2016-presentation.pdf)
+__Introduction to GraphQL (or How I Learned to Stop Worrying About REST APIs__:
+- [PDF](https://github.com/sogko/fossasia-2016-graphql-demo/raw/master/slides/fossasia-2016-presentation.pdf)
+- [Slideshare](http://www.slideshare.net/AhmadHafizIsmail/introduction-to-graphql-or-how-i-learned-to-stop-worrying-about-rest-apis)
 
 ## Reminder
 
